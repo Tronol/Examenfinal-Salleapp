@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Universh</string>
+    <string name="news">Noticias</string>
+    <string name="welcome_text">Bienvenido</string>
+    <string name="cash_text">Pagos</string>
+</resources>
+
